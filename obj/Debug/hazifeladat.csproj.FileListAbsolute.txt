@@ -1,0 +1,10 @@
+C:\Users\cisco\source\repos\hazifeladat\bin\Debug\hazifeladat.exe.config
+C:\Users\cisco\source\repos\hazifeladat\bin\Debug\hazifeladat.exe
+C:\Users\cisco\source\repos\hazifeladat\bin\Debug\hazifeladat.pdb
+C:\Users\cisco\source\repos\hazifeladat\obj\Debug\hazifeladat.Properties.Resources.resources
+C:\Users\cisco\source\repos\hazifeladat\obj\Debug\hazifeladat.csproj.GenerateResource.cache
+C:\Users\cisco\source\repos\hazifeladat\obj\Debug\hazifeladat.csproj.CoreCompileInputs.cache
+C:\Users\cisco\source\repos\hazifeladat\obj\Debug\hazifeladat.exe
+C:\Users\cisco\source\repos\hazifeladat\obj\Debug\hazifeladat.pdb
+C:\Users\cisco\source\repos\hazifeladat\obj\Debug\hazifeladat.csprojAssemblyReference.cache
+C:\Users\cisco\source\repos\hazifeladat\obj\Debug\hazifeladat.Feladat.resources
